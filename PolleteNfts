@@ -1,0 +1,24 @@
+
+  {
+    "project": "PolleteNfts",
+    "policies": [
+      "8348893d5f7d379f55c18079f55ae016d91df194b2d1fb05b6c9f9b4",
+      "62d1a1ea7c572294c948027e19f5e59013fe295a1837db4d7d286194",
+      "ac36598baa96f446bb1d2c3e442b11c36aeebd6dfefea9ca3d29f887",
+      "e88f63d1334a1a8c305d7cc4c6b58d8ae5e87674aea369cdc6a919bf",
+      "3f6cf31fef1c19810a17b546e6bc541817a7665a18aba4340e02747d",
+      "14ff28dc6a33b34d84c035be9e0555c7cca4aea75837cf865f90b187",
+      "caabd4bb2970677033bb908ea14de79441fe1ef9d1cbda6b3e763475"
+    ]
+  },
+  {
+    "project": "CryptoPotions",
+    "policies": [
+      "130a06eb73d1155923fa505a76bedefd63066ca5d55850584e50fae4",
+      "28d9f19fb03fd2f6a3e0d4102e7c7285770ac4d5d82d9ea90859faa4",
+      "a84f40c5b19443cadf58b97017d19eadc20fdbeeb2a1c6ec5782d1a5",
+      "bfbdee3a988538fffce3197944a7016d57e85233c0f49822746ae13f",
+      "e8d8879f44f0173f080f9e8e06f6549579b133f38406ac8450819aba"
+    ]
+  },
+]
